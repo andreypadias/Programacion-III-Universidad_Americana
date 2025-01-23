@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\bin\Debug\net8.0\ProyectoSemanaUno.exe
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\bin\Debug\net8.0\ProyectoSemanaUno.deps.json
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\bin\Debug\net8.0\ProyectoSemanaUno.runtimeconfig.json
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\bin\Debug\net8.0\ProyectoSemanaUno.dll
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\bin\Debug\net8.0\ProyectoSemanaUno.pdb
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.AssemblyInfo.cs
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.dll
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\refint\ProyectoSemanaUno.dll
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.pdb
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ProyectoSemanaUno.genruntimeconfig.cache
+C:\Users\Padias\source\repos\SolucionSemanaUno\ProyectoSemanaUno\obj\Debug\net8.0\ref\ProyectoSemanaUno.dll
