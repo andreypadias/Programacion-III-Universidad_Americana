@@ -49,7 +49,8 @@ Nuestro objetivo es dominar tecnologías de desarrollo de software de alto nivel
 
 2. Asegúrate de tener instalado:
    - [.NET SDK](https://dotnet.microsoft.com/download)
-   - Visual Studio o Visual Studio Code
+   - Visual Studio
+   - SSMS (SQL Server Management Studio)
 
 
 ## 📜 Licencia
