@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\ControlDePagos.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\ControlDePagos.csproj",
       "projectName": "ControlDePagos",
-      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\ControlDePagos.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\ControlDePagos.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

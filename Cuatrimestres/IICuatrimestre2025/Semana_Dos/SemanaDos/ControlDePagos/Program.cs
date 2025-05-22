@@ -4,6 +4,10 @@ bool opcionMenu = true;
 
 //Lista de clientes
 List<Cliente> clientes = new List<Cliente>(); 
+
+Menu menu = new Menu(clientes);
+menu.MostrarMenu();
+
 do
 {
     //Lista

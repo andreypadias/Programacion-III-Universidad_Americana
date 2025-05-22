@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\",
+  "WorkspaceRootPath": "C:\\Users\\Padias\\Documents\\SemanaDos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanados\\controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados\\controldepagos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanados\\controldepagos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados\\controldepagos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados\\controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Menu.cs",
+              "RelativeDocumentMoniker": "ControlDePagos\\Menu.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Menu.cs",
+              "RelativeToolTip": "ControlDePagos\\Menu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:46:19.919Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Cliente.cs",
               "RelativeDocumentMoniker": "ControlDePagos\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Cliente.cs",
               "RelativeToolTip": "ControlDePagos\\Cliente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T00:45:09.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Program.cs",
               "RelativeDocumentMoniker": "ControlDePagos\\Program.cs",
-              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaDos\\ControlDePagos\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos\\ControlDePagos\\Program.cs",
               "RelativeToolTip": "ControlDePagos\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T00:30:05.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T00:30:05.205Z"
             }
           ]
         }
