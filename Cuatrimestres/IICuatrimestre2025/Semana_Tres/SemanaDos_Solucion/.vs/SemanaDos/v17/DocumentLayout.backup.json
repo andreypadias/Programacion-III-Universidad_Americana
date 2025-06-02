@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados_solucion\\semanados_solucion\\controldepagos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados_solucion\\semanados_solucion\\controldepagos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|c:\\users\\padias\\documents\\semanados_solucion\\semanados_solucion\\controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744EAB18-3B3C-49B2-8DDF-01D8CA47F7E4}|ControlDePagos\\ControlDePagos.csproj|solutionrelative:controldepagos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Menu.cs",
+              "RelativeDocumentMoniker": "ControlDePagos\\Menu.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Menu.cs",
+              "RelativeToolTip": "ControlDePagos\\Menu.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:46:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Cliente.cs",
+              "RelativeDocumentMoniker": "ControlDePagos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Cliente.cs",
+              "RelativeToolTip": "ControlDePagos\\Cliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:45:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Program.cs",
+              "RelativeDocumentMoniker": "ControlDePagos\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\SemanaDos_Solucion\\SemanaDos_Solucion\\ControlDePagos\\Program.cs",
+              "RelativeToolTip": "ControlDePagos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:30:05.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
