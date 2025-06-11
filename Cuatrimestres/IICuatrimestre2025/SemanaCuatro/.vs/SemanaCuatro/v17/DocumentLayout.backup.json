@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\tareadesarrollo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\tareadesarrollo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\tareaprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\tareaprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\tareadiseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\tareadiseno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\interfaces\\igestionartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\interfaces\\igestionartarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\enums\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\enums\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\models\\miembrodeequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\models\\miembrodeequipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|c:\\users\\padias\\source\\repos\\semanacuatro\\gestiondeproyectos\\enums\\tiporol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FB2A31-A797-4F25-B767-190104D8AF7D}|GestionDeProyectos\\GestionDeProyectos.csproj|solutionrelative:gestiondeproyectos\\enums\\tiporol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Menus\\Menu.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Menus\\Menu.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwJUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:16:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGestionarTarea.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Interfaces\\IGestionarTarea.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Interfaces\\IGestionarTarea.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Interfaces\\IGestionarTarea.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Interfaces\\IGestionarTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:10:06.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TareaDiseno.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaDiseno.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\TareaDiseno.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaDiseno.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\TareaDiseno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:03:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaPrueba.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\TareaPrueba.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaPrueba.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\TareaPrueba.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:03:44.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TareaDesarrollo.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaDesarrollo.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\TareaDesarrollo.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\TareaDesarrollo.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\TareaDesarrollo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:00:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\Tarea.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\Tarea.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:48:03.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TipoRol.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Enums\\TipoRol.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Enums\\TipoRol.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Enums\\TipoRol.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Enums\\TipoRol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:12:23.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiembroDeEquipo.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\MiembroDeEquipo.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\MiembroDeEquipo.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\MiembroDeEquipo.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\MiembroDeEquipo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:10:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Enums\\EstadoTarea.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Enums\\EstadoTarea.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Enums\\EstadoTarea.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Enums\\EstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:53:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Models\\Proyecto.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:39:17.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDeProyectos\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCuatro\\GestionDeProyectos\\Program.cs",
+              "RelativeToolTip": "GestionDeProyectos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:36:39.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
