@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Semana6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\services\\servicioemailmicrosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\services\\servicioemailmicrosoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\implementations\\enviarsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementations\\enviarsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\interfaces\\ienviarnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\interfaces\\ienviarnotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\services\\servicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\services\\servicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\implementations\\enviaremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementations\\enviaremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\services\\serviciosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\services\\serviciosms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semana6\\patronbridge\\abstractions\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F16A2A-40F3-43E5-9218-6B8235AE8FA3}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\abstractions\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioEmailMicrosoft.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioEmailMicrosoft.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Services\\ServicioEmailMicrosoft.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioEmailMicrosoft.cs",
+              "RelativeToolTip": "PatronBridge\\Services\\ServicioEmailMicrosoft.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:07:12.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviarSMS.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Implementations\\EnviarSMS.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Implementations\\EnviarSMS.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Implementations\\EnviarSMS.cs",
+              "RelativeToolTip": "PatronBridge\\Implementations\\EnviarSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:55:58.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnviarEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Implementations\\EnviarEmail.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Implementations\\EnviarEmail.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Implementations\\EnviarEmail.cs",
+              "RelativeToolTip": "PatronBridge\\Implementations\\EnviarEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:52:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Abstractions\\Notificacion.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Abstractions\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Abstractions\\Notificacion.cs",
+              "RelativeToolTip": "PatronBridge\\Abstractions\\Notificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:48:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioSMS.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioSMS.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Services\\ServicioSMS.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioSMS.cs",
+              "RelativeToolTip": "PatronBridge\\Services\\ServicioSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:46:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioEmail.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Services\\ServicioEmail.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Services\\ServicioEmail.cs",
+              "RelativeToolTip": "PatronBridge\\Services\\ServicioEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:43:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnviarNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Interfaces\\IEnviarNotificacion.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Interfaces\\IEnviarNotificacion.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Interfaces\\IEnviarNotificacion.cs",
+              "RelativeToolTip": "PatronBridge\\Interfaces\\IEnviarNotificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:40:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Program.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana6\\PatronBridge\\Program.cs",
+              "RelativeToolTip": "PatronBridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:35:39.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.AssemblyInfo.cs
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\Semana6\PatronBridge\bin\Debug\net8.0\PatronBridge.exe
+C:\Users\Padias\source\repos\Semana6\PatronBridge\bin\Debug\net8.0\PatronBridge.deps.json
+C:\Users\Padias\source\repos\Semana6\PatronBridge\bin\Debug\net8.0\PatronBridge.runtimeconfig.json
+C:\Users\Padias\source\repos\Semana6\PatronBridge\bin\Debug\net8.0\PatronBridge.dll
+C:\Users\Padias\source\repos\Semana6\PatronBridge\bin\Debug\net8.0\PatronBridge.pdb
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.dll
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\refint\PatronBridge.dll
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.pdb
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\PatronBridge.genruntimeconfig.cache
+C:\Users\Padias\source\repos\Semana6\PatronBridge\obj\Debug\net8.0\ref\PatronBridge.dll
