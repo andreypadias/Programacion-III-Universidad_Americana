@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\views\\pasaportes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\views\\pasaportes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\views\\pasaportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\views\\pasaportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\views\\pasaportes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\views\\pasaportes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\views\\personas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\controllers\\pasaportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\controllers\\pasaportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|c:\\users\\padias\\source\\repos\\semananueve\\tiposderelaciones\\models\\pasaporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ADFB99-F474-4511-A0FE-381F5FF1D2D4}|TiposDeRelaciones\\TiposDeRelaciones.csproj|solutionrelative:tiposderelaciones\\models\\pasaporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Details.cshtml",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Views\\Pasaportes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Details.cshtml",
+              "RelativeToolTip": "TiposDeRelaciones\\Views\\Pasaportes\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:43:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TiposDeRelaciones\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:37:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Views\\Pasaportes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Index.cshtml",
+              "RelativeToolTip": "TiposDeRelaciones\\Views\\Pasaportes\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:26:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TiposDeRelaciones\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:17:00.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pasaporte.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Models\\Pasaporte.cs",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Models\\Pasaporte.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Models\\Pasaporte.cs",
+              "RelativeToolTip": "TiposDeRelaciones\\Models\\Pasaporte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:37:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasaportesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Controllers\\PasaportesController.cs",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Controllers\\PasaportesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Controllers\\PasaportesController.cs",
+              "RelativeToolTip": "TiposDeRelaciones\\Controllers\\PasaportesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:02:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Create.cshtml",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Views\\Pasaportes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Pasaportes\\Create.cshtml",
+              "RelativeToolTip": "TiposDeRelaciones\\Views\\Pasaportes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:29:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "TiposDeRelaciones\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T01:01:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Personas\\Create.cshtml",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Views\\Personas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Views\\Personas\\Create.cshtml",
+              "RelativeToolTip": "TiposDeRelaciones\\Views\\Personas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:13:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "TiposDeRelaciones\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\Models\\Persona.cs",
+              "RelativeToolTip": "TiposDeRelaciones\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:34:41.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
