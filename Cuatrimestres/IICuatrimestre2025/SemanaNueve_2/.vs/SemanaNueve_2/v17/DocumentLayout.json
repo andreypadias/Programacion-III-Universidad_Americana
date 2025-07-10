@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\views\\departamentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\views\\departamentos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|c:\\users\\padias\\source\\repos\\semananueve_2\\unoamuchos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05D71C19-FA3E-4277-8030-F6B9770453A4}|UnoAmuchos\\UnoAmuchos.csproj|solutionrelative:unoamuchos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Departamentos\\Details.cshtml",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Views\\Departamentos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Departamentos\\Details.cshtml",
+              "RelativeToolTip": "UnoAmuchos\\Views\\Departamentos\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T01:02:59.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "UnoAmuchos\\Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T00:54:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UnoAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T00:49:49.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250710004427_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs",
+              "RelativeToolTip": "UnoAmuchos\\Migrations\\20250710004427_PrimeraMigracion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:44:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\appsettings.json",
+              "RelativeDocumentMoniker": "UnoAmuchos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\appsettings.json",
+              "RelativeToolTip": "UnoAmuchos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T00:41:14.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "UnoAmuchos\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:39:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "UnoAmuchos\\Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:38:40.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Models\\Empleado.cs",
+              "RelativeToolTip": "UnoAmuchos\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:20:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "UnoAmuchos\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\Models\\Departamento.cs",
+              "RelativeToolTip": "UnoAmuchos\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:19:14.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
