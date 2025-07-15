@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAJQKZwMPwI=",
+  "dgSpecHash": "QG1wqb9YiM0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
+  "projectFilePath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Padias\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Padias\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

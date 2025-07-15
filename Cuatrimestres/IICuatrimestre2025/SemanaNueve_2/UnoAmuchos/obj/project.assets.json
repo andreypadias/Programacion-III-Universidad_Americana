@@ -7600,11 +7600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
       "projectName": "UnoAmuchos",
-      "projectPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve_2\\UnoAmuchos\\UnoAmuchos.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve_2\\UnoAmuchos\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve_2\\UnoAmuchos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

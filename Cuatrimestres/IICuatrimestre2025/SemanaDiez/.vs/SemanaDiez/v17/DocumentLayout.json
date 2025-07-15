@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\views\\cursoestudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\views\\cursoestudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\controllers\\cursoestudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\cursoestudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiez\\muchosamuchos\\models\\cursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC01087-B7B5-4D94-AC44-A66176315B86}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\models\\cursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Views\\CursoEstudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Views\\CursoEstudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Views\\CursoEstudiantes\\Index.cshtml",
+              "RelativeToolTip": "MuchosAmuchos\\Views\\CursoEstudiantes\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T01:13:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MuchosAmuchos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T01:05:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:59:30.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:58:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursoEstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\CursoEstudiantesController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\CursoEstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Controllers\\CursoEstudiantesController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\CursoEstudiantesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:58:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursoEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\CursoEstudiante.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Models\\CursoEstudiante.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\CursoEstudiante.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Models\\CursoEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:39:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\Estudiante.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:32:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiez\\MuchosAmuchos\\Models\\Curso.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T00:32:10.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
