@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "LoginSencillo\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:19:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Models\\Producto.cs",
+              "RelativeToolTip": "LoginSencillo\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:17:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginSencillo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginSencillo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T00:53:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginSencillo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\appsettings.json",
+              "RelativeToolTip": "LoginSencillo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T00:45:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeToolTip": "LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:44:48.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LoginSencillo\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LoginSencillo\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-22T00:42:55.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Program.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Program.cs",
+              "RelativeToolTip": "LoginSencillo\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T00:40:09.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
