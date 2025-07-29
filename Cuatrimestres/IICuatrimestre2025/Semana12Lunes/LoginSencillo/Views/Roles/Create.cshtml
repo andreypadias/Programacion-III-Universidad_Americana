@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Crear Rol";
+}
+
+<h2>Crear Nuevo Rol</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="roleName">Nombre del Rol</label>
+        <input type="text" class="form-control" id="roleName" name="roleName" />
+    </div>
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+
+{
+    <div class="text-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

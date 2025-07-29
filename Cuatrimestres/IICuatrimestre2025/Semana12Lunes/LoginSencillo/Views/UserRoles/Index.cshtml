@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LoginSencillo.Models.UserRolesViewModel>
+
+@{
+    ViewData["Title"] = "Administrar Roles de Usuarios";
+}
+
+<h2>Administrar Roles de Usuarios</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Usuario</th>
+            <th>Roles</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+
+
+
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>
+                    @if (user.Roles.Any())
+                    {
+                        <ul>
+                            @foreach (var role in user.Roles)
+                            {
+                                <li>
+                                    @role
+                                    <form asp-action="RemoveRole" method="post" style="display:inline;">
+                                        <input type="hidden" name="userId" value="@user.UserId" />
+                                        <input type="hidden" name="roleName" value="@role" />
+                                        <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                                    </form>
+                                </li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span>No tiene roles asignados.</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="AssignRole" asp-route-userId="@user.UserId" class="btn btn-primary btn-sm">Asignar Rol</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

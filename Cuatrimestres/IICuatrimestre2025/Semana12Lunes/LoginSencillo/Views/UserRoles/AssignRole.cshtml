@@ -1,0 +1,38 @@
+﻿@model LoginSencillo.Models.UserRolesViewModel
+@{
+    ViewData["Title"] = "Asignar Rol";
+}
+
+<h2>Asignar Rol a @Model.UserName</h2>
+
+<form asp-action="AssignRole" method="post">
+    @Html.AntiForgeryToken()
+
+    <!-- CORRECCIÓN: Usar asp-for en lugar de name y value -->
+    <input asp-for="UserId" type="hidden" />
+    <input asp-for="UserName" type="hidden" />
+
+    <div class="form-group">
+        <label asp-for="RoleName">Seleccionar Rol</label>
+        <select asp-for="RoleName" class="form-control">
+            <option value="">Seleccione un rol</option>
+            @foreach (var role in Model.Roles)
+            {
+                <option value="@role">@role</option>
+            }
+        </select>
+        <span asp-validation-for="RoleName" class="text-danger"></span>
+    </div>
+
+    <!-- Mostrar errores de validación -->
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <button type="submit" class="btn btn-primary">Asignar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

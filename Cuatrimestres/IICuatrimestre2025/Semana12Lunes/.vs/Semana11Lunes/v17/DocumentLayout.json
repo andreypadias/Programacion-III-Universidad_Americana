@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\views\\userroles\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\views\\userroles\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\models\\userrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\areas\\identity\\data\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|c:\\users\\padias\\source\\repos\\semana11lunes\\loginsencillo\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E32F29-7B81-4642-85A7-88F9579F7FB3}|LoginSencillo\\LoginSencillo.csproj|solutionrelative:loginsencillo\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\UserRoles\\AssignRole.cshtml",
+              "RelativeDocumentMoniker": "LoginSencillo\\Views\\UserRoles\\AssignRole.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\UserRoles\\AssignRole.cshtml",
+              "RelativeToolTip": "LoginSencillo\\Views\\UserRoles\\AssignRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T01:25:53.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\UserRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginSencillo\\Views\\UserRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\UserRoles\\Index.cshtml",
+              "RelativeToolTip": "LoginSencillo\\Views\\UserRoles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T01:25:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "LoginSencillo\\Controllers\\UserRolesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:14:48.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "LoginSencillo\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:58:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "RelativeToolTip": "LoginSencillo\\Areas\\Identity\\Data\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:12:00.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "LoginSencillo\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "LoginSencillo\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T01:07:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginSencillo\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "LoginSencillo\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T01:06:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "LoginSencillo\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:21:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRolesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Models\\UserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Models\\UserRolesViewModel.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Models\\UserRolesViewModel.cs",
+              "RelativeToolTip": "LoginSencillo\\Models\\UserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:49:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Program.cs",
+              "RelativeDocumentMoniker": "LoginSencillo\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana11Lunes\\LoginSencillo\\Program.cs",
+              "RelativeToolTip": "LoginSencillo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T00:34:12.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.AspNetUserRoles [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-29T00:25:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.AspNetUsers [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-29T00:25:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.AspNetRoles [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_420COQK_SQLEXPRESS/LoginUAM/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-29T00:24:34.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
