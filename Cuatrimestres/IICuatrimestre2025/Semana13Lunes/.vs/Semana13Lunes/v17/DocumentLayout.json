@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|c:\\users\\padias\\source\\repos\\semana13lunes\\clienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|solutionrelative:clienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|c:\\users\\padias\\source\\repos\\semana13lunes\\clienteapi\\jsonplaceholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|solutionrelative:clienteapi\\jsonplaceholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|c:\\users\\padias\\source\\repos\\semana13lunes\\clienteapi\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F5E196-5275-4B33-83DF-89592C0930AA}|ClienteAPI\\ClienteAPI.csproj|solutionrelative:clienteapi\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonPlaceholderService.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\JsonPlaceholderService.cs",
+              "RelativeDocumentMoniker": "ClienteAPI\\JsonPlaceholderService.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\JsonPlaceholderService.cs",
+              "RelativeToolTip": "ClienteAPI\\JsonPlaceholderService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:00:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\Usuario.cs",
+              "RelativeDocumentMoniker": "ClienteAPI\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\Usuario.cs",
+              "RelativeToolTip": "ClienteAPI\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:57:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana13Lunes\\ClienteAPI\\Program.cs",
+              "RelativeToolTip": "ClienteAPI\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:56:27.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

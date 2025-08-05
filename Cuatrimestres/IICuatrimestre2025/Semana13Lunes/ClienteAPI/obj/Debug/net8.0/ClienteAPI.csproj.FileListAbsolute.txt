@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\bin\Debug\net8.0\ClienteAPI.exe
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\bin\Debug\net8.0\ClienteAPI.deps.json
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\bin\Debug\net8.0\ClienteAPI.runtimeconfig.json
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\bin\Debug\net8.0\ClienteAPI.dll
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\bin\Debug\net8.0\ClienteAPI.pdb
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.AssemblyInfo.cs
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.dll
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\refint\ClienteAPI.dll
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.pdb
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ClienteAPI.genruntimeconfig.cache
+C:\Users\Padias\source\repos\Semana13Lunes\ClienteAPI\obj\Debug\net8.0\ref\ClienteAPI.dll
