@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\SemanaDos2025\POO\bin\Debug\net8.0\POO.exe
+C:\Users\Padias\source\repos\SemanaDos2025\POO\bin\Debug\net8.0\POO.deps.json
+C:\Users\Padias\source\repos\SemanaDos2025\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\Users\Padias\source\repos\SemanaDos2025\POO\bin\Debug\net8.0\POO.dll
+C:\Users\Padias\source\repos\SemanaDos2025\POO\bin\Debug\net8.0\POO.pdb
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.dll
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\refint\POO.dll
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.pdb
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\Users\Padias\source\repos\SemanaDos2025\POO\obj\Debug\net8.0\ref\POO.dll
