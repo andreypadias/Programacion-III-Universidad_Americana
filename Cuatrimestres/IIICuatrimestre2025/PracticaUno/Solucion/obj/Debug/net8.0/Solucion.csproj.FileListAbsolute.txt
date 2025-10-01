@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\PracticaUno\Solucion\bin\Debug\net8.0\Solucion.exe
+C:\Users\Padias\source\repos\PracticaUno\Solucion\bin\Debug\net8.0\Solucion.deps.json
+C:\Users\Padias\source\repos\PracticaUno\Solucion\bin\Debug\net8.0\Solucion.runtimeconfig.json
+C:\Users\Padias\source\repos\PracticaUno\Solucion\bin\Debug\net8.0\Solucion.dll
+C:\Users\Padias\source\repos\PracticaUno\Solucion\bin\Debug\net8.0\Solucion.pdb
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.AssemblyInfo.cs
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.dll
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\refint\Solucion.dll
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.pdb
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\Solucion.genruntimeconfig.cache
+C:\Users\Padias\source\repos\PracticaUno\Solucion\obj\Debug\net8.0\ref\Solucion.dll

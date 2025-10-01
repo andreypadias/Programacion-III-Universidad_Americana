@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\sistemacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\sistemacompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\itemorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\itemorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|c:\\users\\padias\\source\\repos\\practicauno\\solucion\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86545C7C-820E-4F82-84C7-470C7A0AB913}|Solucion\\Solucion.csproj|solutionrelative:solucion\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaCompras.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\SistemaCompras.cs",
+              "RelativeDocumentMoniker": "Solucion\\SistemaCompras.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\SistemaCompras.cs",
+              "RelativeToolTip": "Solucion\\SistemaCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:37:50.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Inventario.cs",
+              "RelativeDocumentMoniker": "Solucion\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Inventario.cs",
+              "RelativeToolTip": "Solucion\\Inventario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:36:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "Solucion\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\OrdenCompra.cs",
+              "RelativeToolTip": "Solucion\\OrdenCompra.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:35:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemOrden.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\ItemOrden.cs",
+              "RelativeDocumentMoniker": "Solucion\\ItemOrden.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\ItemOrden.cs",
+              "RelativeToolTip": "Solucion\\ItemOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:34:27.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Solucion\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Proveedor.cs",
+              "RelativeToolTip": "Solucion\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:32:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Producto.cs",
+              "RelativeDocumentMoniker": "Solucion\\Producto.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Producto.cs",
+              "RelativeToolTip": "Solucion\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:27:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Program.cs",
+              "RelativeDocumentMoniker": "Solucion\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\PracticaUno\\Solucion\\Program.cs",
+              "RelativeToolTip": "Solucion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:26:55.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
