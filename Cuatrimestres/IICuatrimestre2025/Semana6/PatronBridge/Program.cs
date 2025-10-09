@@ -5,8 +5,8 @@ using PatronBridge.Implementations;
 using PatronBridge.Interfaces;
 using PatronBridge.Services;
 
-IEnviarNotificacion servicioEmail = new ServicioEmailMicrosoft();
-IEnviarNotificacion servicioSMS = new ServicioSMS();
+IEnviarNotificacion servicioMicrosoft = new ServicioEmailMicrosoft();
+IEnviarNotificacion servicioAWS = new ServicioSMS();
 
-EnviarEmail enviarEmailCostaRica = new EnviarEmail(servicioEmail);
+EnviarEmail enviarEmailCostaRica = new EnviarEmail(servicioMicrosoft);
 enviarEmailCostaRica.EnviarNotificacion("Mensaje para enviar: Hola mundo", "andrey@aum.com");

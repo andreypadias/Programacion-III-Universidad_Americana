@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatronBridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e32c58e396f78246e738a25afecae895bc37f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatronBridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatronBridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

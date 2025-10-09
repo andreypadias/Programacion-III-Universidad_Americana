@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\abstraccion\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\abstraccion\\notificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\abstraccionesrefinadas\\notificacionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\abstraccionesrefinadas\\notificacionemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\abstraccionesrefinadas\\notificacionsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\abstraccionesrefinadas\\notificacionsms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\implementadoresabstractos\\proveedorracsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementadoresabstractos\\proveedorracsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\implementadoresabstractos\\proveedoraws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementadoresabstractos\\proveedoraws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\implementador\\iproveedormensajeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementador\\iproveedormensajeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|c:\\users\\padias\\source\\repos\\semanacincomiercoles\\patronbridge\\implementadoresabstractos\\proveedorgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0929F107-1C5D-4D5A-95F6-9273C10DDDF7}|PatronBridge\\PatronBridge.csproj|solutionrelative:patronbridge\\implementadoresabstractos\\proveedorgoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificacionEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\AbstraccionesRefinadas\\NotificacionEmail.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\AbstraccionesRefinadas\\NotificacionEmail.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\AbstraccionesRefinadas\\NotificacionEmail.cs",
+              "RelativeToolTip": "PatronBridge\\AbstraccionesRefinadas\\NotificacionEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:29:09.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificacionSMS.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\AbstraccionesRefinadas\\NotificacionSMS.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\AbstraccionesRefinadas\\NotificacionSMS.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\AbstraccionesRefinadas\\NotificacionSMS.cs",
+              "RelativeToolTip": "PatronBridge\\AbstraccionesRefinadas\\NotificacionSMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:26:05.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Abstraccion\\Notificacion.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Abstraccion\\Notificacion.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Abstraccion\\Notificacion.cs",
+              "RelativeToolTip": "PatronBridge\\Abstraccion\\Notificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:22:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedorRACSA.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorRACSA.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\ImplementadoresAbstractos\\ProveedorRACSA.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorRACSA.cs",
+              "RelativeToolTip": "PatronBridge\\ImplementadoresAbstractos\\ProveedorRACSA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:20:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedorAWS.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorAWS.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\ImplementadoresAbstractos\\ProveedorAWS.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorAWS.cs",
+              "RelativeToolTip": "PatronBridge\\ImplementadoresAbstractos\\ProveedorAWS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:20:07.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProveedorGoogle.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorGoogle.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\ImplementadoresAbstractos\\ProveedorGoogle.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\ImplementadoresAbstractos\\ProveedorGoogle.cs",
+              "RelativeToolTip": "PatronBridge\\ImplementadoresAbstractos\\ProveedorGoogle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:18:57.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProveedorMensajeria.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Implementador\\IProveedorMensajeria.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Implementador\\IProveedorMensajeria.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Implementador\\IProveedorMensajeria.cs",
+              "RelativeToolTip": "PatronBridge\\Implementador\\IProveedorMensajeria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:17:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Program.cs",
+              "RelativeDocumentMoniker": "PatronBridge\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaCincoMiercoles\\PatronBridge\\Program.cs",
+              "RelativeToolTip": "PatronBridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:14:00.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

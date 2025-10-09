@@ -9,7 +9,7 @@ namespace PatronBridge.Abstractions
 {
     public abstract class Notificacion
     {
-
+        //Atributo
         protected IEnviarNotificacion _enviarNotificacion;
 
         public Notificacion(IEnviarNotificacion enviarNotificacion)
