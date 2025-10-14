@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\solicitudcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\solicitudcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\aprobador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\aprobador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|c:\\users\\padias\\source\\repos\\semanaseislunes\\chainofresponsability\\vicepresidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0AA07-1A2F-4292-941F-42261006F767}|ChainOfResponsability\\ChainOfResponsability.csproj|solutionrelative:chainofresponsability\\vicepresidente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VicePresidente.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\VicePresidente.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\VicePresidente.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\VicePresidente.cs",
+              "RelativeToolTip": "ChainOfResponsability\\VicePresidente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:58:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Director.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\Director.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Director.cs",
+              "RelativeToolTip": "ChainOfResponsability\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:57:27.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Gerente.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Gerente.cs",
+              "RelativeToolTip": "ChainOfResponsability\\Gerente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:56:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Supervisor.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\Supervisor.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Supervisor.cs",
+              "RelativeToolTip": "ChainOfResponsability\\Supervisor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:48:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aprobador.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Aprobador.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\Aprobador.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Aprobador.cs",
+              "RelativeToolTip": "ChainOfResponsability\\Aprobador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:35:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolicitudCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\SolicitudCompra.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\SolicitudCompra.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\SolicitudCompra.cs",
+              "RelativeToolTip": "ChainOfResponsability\\SolicitudCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:32:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsability\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaSeisLunes\\ChainOfResponsability\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsability\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T00:30:01.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

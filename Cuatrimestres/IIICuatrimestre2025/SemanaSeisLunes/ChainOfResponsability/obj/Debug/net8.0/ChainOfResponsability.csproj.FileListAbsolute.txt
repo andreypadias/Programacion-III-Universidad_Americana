@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.exe
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.deps.json
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.runtimeconfig.json
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.dll
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\bin\Debug\net8.0\ChainOfResponsability.pdb
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.dll
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\refint\ChainOfResponsability.dll
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.pdb
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ChainOfResponsability.genruntimeconfig.cache
+C:\Users\Padias\source\repos\SemanaSeisLunes\ChainOfResponsability\obj\Debug\net8.0\ref\ChainOfResponsability.dll
