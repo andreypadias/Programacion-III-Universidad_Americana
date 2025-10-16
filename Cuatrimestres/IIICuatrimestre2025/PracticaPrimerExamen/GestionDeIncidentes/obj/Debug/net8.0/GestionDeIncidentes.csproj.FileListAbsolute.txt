@@ -1,0 +1,14 @@
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.AssemblyInfoInputs.cache
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.AssemblyInfo.cs
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.csproj.CoreCompileInputs.cache
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\bin\Debug\net8.0\GestionDeIncidentes.exe
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\bin\Debug\net8.0\GestionDeIncidentes.deps.json
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\bin\Debug\net8.0\GestionDeIncidentes.runtimeconfig.json
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\bin\Debug\net8.0\GestionDeIncidentes.dll
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\bin\Debug\net8.0\GestionDeIncidentes.pdb
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.dll
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\refint\GestionDeIncidentes.dll
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.pdb
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\GestionDeIncidentes.genruntimeconfig.cache
+C:\Users\Padias\source\repos\PracticaPrimerExamen\GestionDeIncidentes\obj\Debug\net8.0\ref\GestionDeIncidentes.dll
