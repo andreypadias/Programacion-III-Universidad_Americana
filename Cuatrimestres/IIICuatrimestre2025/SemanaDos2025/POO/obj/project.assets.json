@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\SemanaDos2025\\POO\\POO.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaDos2025\\POO\\POO.csproj",
       "projectName": "POO",
-      "projectPath": "C:\\Users\\Padias\\source\\repos\\SemanaDos2025\\POO\\POO.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaDos2025\\POO\\POO.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\source\\repos\\SemanaDos2025\\POO\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaDos2025\\POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

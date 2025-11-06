@@ -7600,11 +7600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\TiposDeRelaciones.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve\\TiposDeRelaciones\\TiposDeRelaciones.csproj",
       "projectName": "TiposDeRelaciones",
-      "projectPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\TiposDeRelaciones.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve\\TiposDeRelaciones\\TiposDeRelaciones.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\source\\repos\\SemanaNueve\\TiposDeRelaciones\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaNueve\\TiposDeRelaciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

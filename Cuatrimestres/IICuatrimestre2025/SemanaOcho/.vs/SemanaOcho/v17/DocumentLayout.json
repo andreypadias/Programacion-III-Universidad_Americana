@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\",
+  "WorkspaceRootPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\source\\repos\\semanaocho\\primerproyectoweb\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|c:\\users\\padias\\documents\\github\\programacion-iii-universidad_americana\\cuatrimestres\\iicuatrimestre2025\\semanaocho\\primerproyectoweb\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{574A486C-E719-490B-A457-2DEF3E7C73EA}|PrimerProyectoWeb\\PrimerProyectoWeb.csproj|solutionrelative:primerproyectoweb\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Program.cs",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Program.cs",
               "RelativeToolTip": "PrimerProyectoWeb\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T02:15:11.75Z",
               "EditorCaption": ""
@@ -53,48 +53,45 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
               "RelativeToolTip": "PrimerProyectoWeb\\Views\\Productos\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T02:10:44.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T02:10:44.705Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "PrimerProyectoWeb\\Controllers\\ProductosController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowJgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T02:11:02.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T02:11:02.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "PrimerProyectoWeb\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T02:02:52.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T02:02:52.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\Models\\Producto.cs",
               "RelativeToolTip": "PrimerProyectoWeb\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\appsettings.json",
               "RelativeDocumentMoniker": "PrimerProyectoWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\appsettings.json",
               "RelativeToolTip": "PrimerProyectoWeb\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -7600,11 +7600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\PrimerProyectoWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\PrimerProyectoWeb.csproj",
       "projectName": "PrimerProyectoWeb",
-      "projectPath": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\PrimerProyectoWeb.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\PrimerProyectoWeb.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\source\\repos\\SemanaOcho\\PrimerProyectoWeb\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\SemanaOcho\\PrimerProyectoWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

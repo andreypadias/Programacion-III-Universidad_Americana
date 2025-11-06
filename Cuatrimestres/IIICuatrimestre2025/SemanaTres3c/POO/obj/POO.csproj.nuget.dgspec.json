@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Padias\\source\\repos\\SemanaTres3c\\POO\\POO.csproj": {}
+    "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaTres3c\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Padias\\source\\repos\\SemanaTres3c\\POO\\POO.csproj": {
+    "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaTres3c\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\SemanaTres3c\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaTres3c\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\Padias\\source\\repos\\SemanaTres3c\\POO\\POO.csproj",
+        "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaTres3c\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Padias\\source\\repos\\SemanaTres3c\\POO\\obj\\",
+        "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IIICuatrimestre2025\\SemanaTres3c\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",
