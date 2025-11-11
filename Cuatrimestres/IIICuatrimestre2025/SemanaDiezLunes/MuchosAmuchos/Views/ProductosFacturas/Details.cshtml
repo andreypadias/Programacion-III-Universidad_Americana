@@ -1,0 +1,30 @@
+﻿@model MuchosAmuchos.Models.ProductosFactura
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ProductosFactura</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Factura)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Factura.FacturaId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Producto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producto.Nombre)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ProductosFacturaID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\controllers\\productosfacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\productosfacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\views\\facturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\views\\facturas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\models\\productosfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\models\\productosfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|c:\\users\\padias\\source\\repos\\semanadiezlunes\\muchosamuchos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABAB4CA-6BFA-48F2-8EEC-9D4BB59DE6A5}|MuchosAmuchos\\MuchosAmuchos.csproj|solutionrelative:muchosamuchos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Models\\Factura.cs*",
+              "RelativeToolTip": "MuchosAmuchos\\Models\\Factura.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:36:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Models\\ProductosFactura.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Models\\ProductosFactura.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Models\\ProductosFactura.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Models\\ProductosFactura.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:36:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Views\\Facturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Create.cshtml",
+              "RelativeToolTip": "MuchosAmuchos\\Views\\Facturas\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:30:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Views\\Facturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "MuchosAmuchos\\Views\\Facturas\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:30:13.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:17:37.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosFacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ProductosFacturasController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\ProductosFacturasController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ProductosFacturasController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\ProductosFacturasController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:16:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Details.cshtml",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Views\\Facturas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Views\\Facturas\\Details.cshtml",
+              "RelativeToolTip": "MuchosAmuchos\\Views\\Facturas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:32:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:08:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:07:43.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "MuchosAmuchos\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\SemanaDiezLunes\\MuchosAmuchos\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "MuchosAmuchos\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:06:55.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
