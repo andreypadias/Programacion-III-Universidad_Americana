@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginSencillo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14fbc3d23c1b75ba97ddc0c98023c30e68f523fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginSencillo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginSencillo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
