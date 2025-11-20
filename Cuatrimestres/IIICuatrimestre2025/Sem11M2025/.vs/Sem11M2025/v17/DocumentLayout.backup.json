@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|c:\\users\\padias\\source\\repos\\sem11m2025\\sistemabasico\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089877A7-430F-486B-A093-DA3B8CA8798D}|SistemaBasico\\SistemaBasico.csproj|solutionrelative:sistemabasico\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T01:00:32.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SistemaBasico\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv24AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:59:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Program.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Program.cs",
+              "RelativeToolTip": "SistemaBasico\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:31:34.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaBasico\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:39:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaBasico\\appsettings.json",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\appsettings.json",
+              "RelativeToolTip": "SistemaBasico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T00:32:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "SistemaBasico\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:30:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaBasico\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:21:06.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaBasico\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Padias\\source\\repos\\Sem11M2025\\SistemaBasico\\Models\\Producto.cs",
+              "RelativeToolTip": "SistemaBasico\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:19:45.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

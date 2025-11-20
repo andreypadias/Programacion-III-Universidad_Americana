@@ -8012,11 +8012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\Semana12Miercoles\\Proyecto\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Proyecto.csproj",
+      "projectPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\Semana12Miercoles\\Proyecto\\Proyecto.csproj",
       "packagesPath": "C:\\Users\\Padias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\obj\\",
+      "outputPath": "C:\\Users\\Padias\\Documents\\GitHub\\Programacion-III-Universidad_Americana\\Cuatrimestres\\IICuatrimestre2025\\Semana12Miercoles\\Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Padias\\AppData\\Roaming\\NuGet\\NuGet.Config",

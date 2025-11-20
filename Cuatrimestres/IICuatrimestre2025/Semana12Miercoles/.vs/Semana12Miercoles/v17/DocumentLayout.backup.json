@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|c:\\users\\padias\\source\\repos\\semana12miercoles\\proyecto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|c:\\users\\padias\\source\\repos\\semana12miercoles\\proyecto\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|c:\\users\\padias\\source\\repos\\semana12miercoles\\proyecto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|solutionrelative:proyecto\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51EE6F7B-54D6-4D81-B721-37722008B329}|Proyecto\\Proyecto.csproj|c:\\users\\padias\\source\\repos\\semana12miercoles\\proyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,30 +45,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwG0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowIYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T00:38:36.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\Padias\\source\\repos\\Semana12Miercoles\\Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Proyecto\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-31T00:37:17.051Z",
               "EditorCaption": ""
